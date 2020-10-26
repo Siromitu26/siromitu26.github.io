@@ -1,6 +1,6 @@
 # Siromitu26
 
-なんかしてます。これからきちんとページ作ります。
+オンプレのインフラエンジニアをしていました。
 
 ## Link
 - [Twitter](https://twitter.com/Siromitu26)
