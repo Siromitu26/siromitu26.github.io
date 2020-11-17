@@ -1,13 +1,10 @@
 ゲームしたりサーバいじったりたまにコード書いています。
 
 ## やってるゲームの話
-
-誘われたらやるので誘ってくれ～～～～
-
-- Apex Legends
-  - すぐ死ぬ
 - 機動戦士ガンダム エクストリームバーサス マキシブーストON
   - 弾切れですぐ死ぬ
+- Apex Legends
+  - すぐ死ぬけどチャンピオンは嬉しい
 - Minecraft
   - Industrial CraftとLogistics Pipesで大学院生活壊しかけた
 - スプラトゥーン2
@@ -15,8 +12,8 @@
 - TETRIS 99
   - だいたい30位らへんにいる
 - Grand Theft Auto 5
-  - すぐ死ぬ
-
+  - NPCだけじゃなくてチート勢にも死なされる
+  
 ## サーバの話
 - CentOS 7使ってる。令和のCentOS 5を許すな
   - [RepoForge](http://repoforge.org/)もクローズしたんですよ。いい加減CentOS 5をやめろ
